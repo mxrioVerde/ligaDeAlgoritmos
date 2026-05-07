@@ -1,4 +1,4 @@
-with open('input.txt') as f:
+with open('inputCogumelos.txt') as f:
     caminho = f.read().splitlines()
 
 def caminhante(cam):
